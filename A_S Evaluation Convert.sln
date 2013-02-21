@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AS_EvaluationConvert-v0.5", "A_S Evaluation Convert\A_S Evaluation Convert.vcxproj", "{F481869C-14C1-4BE1-B716-0E3448A91D82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AD0BA27-C2AE-469C-A0DC-22386CA0749E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F481869C-14C1-4BE1-B716-0E3448A91D82}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F481869C-14C1-4BE1-B716-0E3448A91D82}.Debug|Win32.Build.0 = Debug|Win32
+		{F481869C-14C1-4BE1-B716-0E3448A91D82}.Release|Win32.ActiveCfg = Release|Win32
+		{F481869C-14C1-4BE1-B716-0E3448A91D82}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
